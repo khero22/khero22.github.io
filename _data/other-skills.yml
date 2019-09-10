@@ -1,0 +1,19 @@
+- name: Graphisoft Archicad
+  percentage: 85
+  color: info
+
+- name: Adobe Photoshop
+  percentage: 75
+  color: danger
+
+- name: Autodesk 3Ds Max
+  percentage: 65
+  color: 
+
+- name: McNeel Rhinoceros 3D
+  percentage: 55
+  color: dark
+
+- name: McNeel Grasshopper 3D
+  percentage: 60
+  color: dark
